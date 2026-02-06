@@ -1,0 +1,6 @@
+- Update the "PROJECTS" title to be responsive: use text-6xl on mobile and text-[60vw] on md+ ✓
+- Change the cards section layout: stack vertically (flex-col) on small screens and horizontally (md:flex-row) on md+, with responsive widths (w-full md:w-100), heights (h-auto md:h-95), and maintain gap-5 ✓
+- Adjust text sizes inside cards for readability on 320px: title (text-xl md:text-2xl), description (text-base md:text-[1.2rem]), "Visit Site" (text-sm md:text-[1rem]), and icons (text-2xl md:text-3xl) ✓
+- Ensure margins, padding, and shadows are responsive where needed (e.g., adjust m-8 in second card to m-2 for consistency) ✓
+- Verify GSAP animations, redirects, and hover effects remain intact ✓
+- Update TODO.md to reflect completion
